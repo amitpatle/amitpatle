@@ -1,3 +1,4 @@
+[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 <h1 align="center">I'm Amit</h1>
 <h3 align="center">Life goes on by resolving errors</h3>
 
