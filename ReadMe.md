@@ -18,7 +18,7 @@ Hey there, I'm Amit Patle. I live in India and am a part-time student and offici
 
 
   ## 💳 FOR SUPPORT 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ SOON) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/) SOON
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
