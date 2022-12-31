@@ -8,7 +8,7 @@ Hey there, I'm Amit Patle. I live in India and am a part-time student and offici
 
 
 ## 👨‍💻 CONNECT:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Amitpatle_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@amitpatle_) 
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@Amitpatle_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@amitpatle_) 
 # 🪪 :
 ![](https://github-readme-stats.vercel.app/api?username=Amitpatle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amitpatle&theme=dark&hide_border=false)<br/>
