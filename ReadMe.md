@@ -1,10 +1,10 @@
-[![Header](https://pin.it/6fk5kvD.gif "Header")]()
+[![Header](https://github.com/amitpatle/amitpatle/blob/main/36027ab590c28a300cbb1d5703580275.gif "Header")]()
 
 
 
 
 # 🥷🏼 ABOUT ME :
-Hey there, I'm Amit Patle. I live in India and am a part-time student and official hustler. I love to sit in front of the computer and do crazy stuff.  follow me and let start doing CRAZY STUFF  STILL If you don't follow me , fork off. JUST KIDDING XD
+Hey there, I'm Amit Patle. I live in India and am a part-time student and official hustler. I love to sit in front of the computer and do crazy stuff.  follow me and let start doing CRAZY STUFF  STILL If you don't want to follow me , fork off. JUST KIDDING XD
 
 
 ## 👨‍💻 CONNECT:
