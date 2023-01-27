@@ -2,9 +2,11 @@
 
 
 
+    " Let me introduce myself. I am Amit, an extremely dedicated and hardworking individual with 
+              a passion for learning and self-improvement. And I am constantly seeking 
+                 new challenges and opportunities to expand my knowledge and skills. "
 
-# 🥷🏼 ABOUT ME :
-Hey there, I'm Amit Patle. I live in India and am a part-time student and official hustler. I love to sit in front of the computer and do crazy stuff.  follow me and let start doing CRAZY STUFF  STILL If you don't want to follow me , fork off. JUST KIDDING XD
+
 
 
 ## 👨‍💻 CONNECT:
@@ -17,8 +19,8 @@ Hey there, I'm Amit Patle. I live in India and am a part-time student and offici
 ---
 
 
-  ## 💳 FOR SUPPORT 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/) SOON
+💳
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/patleamit)
 
   
 
