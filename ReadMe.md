@@ -2,11 +2,14 @@
  <br/>
 
 
-      " Let me introduce myself. I am Amit, an extremely dedicated and hardworking individual with 
-               a passion for learning and self-improvement. And I am constantly seeking 
-                  new challenges and opportunities to expand my knowledge and skills. "
+       " Let me introduce myself. I am Amit, an extremely dedicated and hardworking
+              individual with a passion for learning and self-improvement. 
+          And I am constantly seeking new challenges and opportunities to expand 
+                                my knowledge and skills. "
+
+
 ___
-                  "You can reach me via following social handles for any inquiries"
+             "You can reach me via following social handles for any inquiries"
 
 
 
