@@ -23,13 +23,17 @@ return 0;
 
   ```
                
+<details>
+<summary> 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
+ </summary>
+<br>
 
 <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Full+Time+Developer+.+.+.;Part-Time++Student+.+.+." alt="Typing SVG" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amitpatle&theme=transparent&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&hide_longest_streak=true" align="center" />
   
 </div>
 </br>
+</details>
 
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">​​ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ​​</div>
