@@ -12,7 +12,7 @@ int main() {
     const char* Name = "Amit Patle";
     int Age = 19; // Current Age
     const char* Degree = "Computer Science Engineering"; // Pursuing
-    const char* Learning[] = {"C", "Java", "SQL", "Python"};
+    const char* Learning[] = {"C", "C++", "SQL", "Python"};
 
     // GitHub-related information
     const char* GitHubUsername = "Amitpatle";
