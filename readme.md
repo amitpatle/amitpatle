@@ -27,7 +27,8 @@ return 0;
 <summary> 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
  </summary>
 <br>
-
+<div align="center">
+<img src="banner.png" align="center" />
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amitpatle&theme=transparent&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=600&hide_longest_streak=true" align="center" />
   
