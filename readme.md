@@ -27,14 +27,14 @@ return 0;
 <img align="left" src="https://avatars.githubusercontent.com/u/92509904" width="200" /> 
     
 ```csharp
- ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇫​​🇮​​🇬​
+  ᴍʏ ᴄᴏɴꜰɪɢ
 ----------------
       OS   :  Windows 11 / Garuda
       CPU  :  Ryzen 7 5800
       GPU  :  RTX 3050 x/
       RAM  :  16 GB
 ----------------
-    Alias  :  ​🇯​​🇦​​🇷​​🇻​​🇮​​🇸​
+    Alias  :  JARVIS
   
 ```   
 <br> <br> 
