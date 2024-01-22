@@ -1,9 +1,7 @@
 
-
 <p align="center">
     <b><font> " जय श्री राम " </font></b>
 </p>
-
 
 ```C
 #include <stdio.h>
@@ -21,20 +19,29 @@ int main() {
 return 0;
 }
 
-  ```
-               
+  ```               
 <details>
-<summary> 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
+<summary> ᴍᴏʀᴇ :
  </summary>
 <br>
-<div align="center">
-<img src="https://github.com/amitpatle/amitpatle/blob/main/Banner.png" align="center" /> <br> <br> <br> <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amitpatle&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=950&hide_longest_streak=true" align="center" />
+<img align="left" src="https://avatars.githubusercontent.com/u/92509904" width="200" /> 
+    
+```csharp
+ ​🇲​​🇾​ ​🇨​​🇴​​🇳​​🇫​​🇮​​🇬​
+----------------
+      OS   :  Windows 11 / Garuda
+      CPU  :  Ryzen 7 5800
+      GPU  :  RTX 3050 x/
+      RAM  :  16 GB
+----------------
+    Alias  :  ​🇯​​🇦​​🇷​​🇻​​🇮​​🇸​
   
+```   
+<br> <br> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amitpatle&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=950&hide_longest_streak=true" align="center" />
 </div>
 </br>
 </details>
-
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">​​ʏᴏᴜ ᴄᴀɴ ʀᴇᴀᴄʜ ᴍᴇ ᴠɪᴀ ꜰᴏʟʟᴏᴡɪɴɢ ꜱᴏᴄɪᴀʟ ʜᴀɴᴅʟᴇꜱ ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ​​</div>
 <br/> 
