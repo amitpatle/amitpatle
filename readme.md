@@ -24,7 +24,7 @@ return 0;
 <summary> ᴍᴏʀᴇ :
  </summary>
 <br>
-<img align="left" src="https://avatars.githubusercontent.com/u/92509904" width="200" /> 
+<img align="left" src="https://github.com/amitpatle/amitpatle/blob/0af1f2cefbae69b47ed8ae0e07253ce98921923d/animator.gif" width="200" /> 
     
 ```csharp
   ᴍʏ ᴄᴏɴꜰɪɢ
