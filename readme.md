@@ -40,6 +40,9 @@ return 0;
 <br> <br> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amitpatle&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=950&hide_longest_streak=true" align="center" />
 </div>
+
+[![An image of @amitpatle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitpatle)](https://holopin.io/@amitpatle)
+
 </br>
 </details>
 <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
